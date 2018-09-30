@@ -181,6 +181,7 @@ and our administrator may contact you if we need any extra information.</h4>
   {% endif %}
   for more information.
 </p>
+<p><strong>REGISTRATION:</strong> Please register online at <a href="https://goo.gl/forms/VqHChcRVV0C012wH3">https://goo.gl/forms/VqHChcRVV0C012wH3</a>
 
 <hr/>
 
